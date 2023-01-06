@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans';
+}
+section1{
+    background-image: url(../images/banner/banner3.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+    color: white;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    text-align: right;
+    
+} 
+section1 h1{
+    font-weight: 900;
+    font-size: 50px;
+    padding-bottom: 20px;
+    padding-left: 845px;
+    color: #FFFFFF;
+    margin-right: 35px;
+}
+section1 p{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: right;
+    color: #FFFFFF;
+    padding-left: 600px;
+    margin-right: 35px;
+    
+}
+
+section1 button{
+    background-color: #FFFFFF;
+    color: #005FAC;
+    border-radius: 15px;
+    Height: 60px;
+    width: 150px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    margin-top: 35px;
+    margin-right: 35px;
+}
+
+/* section1 end */
+
+section2{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+}
+.rightside{
+    text-align: center;   
+    color: #151414;
+    align-items: center; 
+    justify-content: center;
+    margin: 0 150px;
+    padding-top: 150px;
+    margin-top: 150px;
+    
+}
+.rightside h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: left;
+    
+}
+section2 ul{
+    
+    margin-top: 20px;
+    text-align: left;
+    color: #444343;
+}
+section2 p{
+    margin-top: 20px;
+    text-align: left;
+    color: #444343;
+}
+
+/* section2 end */
+
+section3 h1{
+    text-align: center;
+}
+.title{
+    color: #151414;
+    margin-top: 150px;
+}
+.plans-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.plans-container p{
+    font-size: 20px;
+    color: #737272;
+}
+/* section3 end */
+
+section4{
+        background-image: url(../images/watch.png);
+        margin-top: 25px;
+        margin: 0px 200px;
+        height: 250px;
+        font-weight: 700;
+        color: black;
+        display: flex;
+        align-items: center;
+        background-repeat: no-repeat;
+        padding-top: 50px;
+        padding-left: 50px;
+}
+section4 h1{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+section4 button{
+    background-color: #FFFFFF;
+    color: #005FAC;
+    border-radius: 15px;
+    Height: 60px;
+    width: 140px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    margin-top: 35px;
+}
+/* section4 ends */
+
+.contact{
+    display: flex;
+    gap: 100px;
+    pad: 130px 200px;
+    background-color: #151414;
+    padding: 150px;
+    margin-top: 50px;
+}
+.contact .section-title{
+    text-align: left;
+    margin-bottom: 30px;
+
+}
+.contact input{
+    background-color: #151414;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+    border: 2;
+    border-style: solid;
+    width: 100%;
+    padding: 18px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.contact h1, p{
+    color: white;
+}
+.contact h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+.contact p{
+    padding-top: 15px;
+    padding-right: 150px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+section5 button{
+    background-color: #005FAC;
+    color: #FFFFFF;
+    border-radius: 15px;
+    Height: 60px;
+    width: 140px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    
+}
+
