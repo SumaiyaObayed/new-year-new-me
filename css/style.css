@@ -115,7 +115,7 @@ section3 h1{
 /* section3 end */
 
 section4{
-        background-image: url(../images/watch.png);
+        background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
         margin-top: 25px;
         margin: 0px 200px;
         height: 250px;
